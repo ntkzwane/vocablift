@@ -1,0 +1,9 @@
+Violet;viyolethi
+Yellow;-liphuzi
+Red;-bomvu
+Gray;mpunga
+Black;-mnyama
+Brown;-nsundu
+Green;-luhlaza
+White;-mhlophe
+Orange;orenji

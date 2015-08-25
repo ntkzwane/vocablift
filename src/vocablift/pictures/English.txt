@@ -1,0 +1,14 @@
+13
+lion
+zebra
+horse
+cat
+elephant
+pig
+fish
+dog
+cow
+chicken
+snake
+bird
+rabbit

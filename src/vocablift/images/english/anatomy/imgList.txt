@@ -1,0 +1,10 @@
+dent.png
+dos.png
+loin.png
+main.png
+neck.png
+nez.png
+os.png
+ouie.png
+poitrine.png
+yeux.png

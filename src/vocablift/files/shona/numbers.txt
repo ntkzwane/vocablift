@@ -1,0 +1,10 @@
+one;motsi
+two;piri
+three;tatu
+four;mana
+five;shanu
+six;tanhatu
+seven;nomwe
+eight;sere
+nine;pfumbamwe
+ten;gumi

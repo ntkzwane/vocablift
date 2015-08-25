@@ -1,0 +1,10 @@
+One;Kunye
+Two;Kubili
+Three;Kuthathu
+Four;Kune
+Five;Kuhlanu
+Six;Yisithupha
+Seven;Yisikhombisa
+Eight;Yisishiyagalombili
+Nine;Yisishiyagalolunye
+Ten;Yishumi

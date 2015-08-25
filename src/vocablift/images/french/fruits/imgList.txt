@@ -1,0 +1,12 @@
+strawberry.jpg
+raisin.jpg
+ananas.jpg
+avocat.jpg
+baie.jpg
+banane.jpg
+lemon.jpg
+mangue.jpg
+orange.jpg
+poir.jpg
+pomme.jpg
+cerise.png

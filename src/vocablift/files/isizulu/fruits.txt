@@ -1,0 +1,12 @@
+grape;igilebhisi
+berry;ibheri
+apple;iapula
+banana;ubhanana
+lemon;ilamuna
+mango;imango
+strawberry;ibhimbi
+orange;iwolintshi
+cherry;okusamathunduluka
+pair;ipere
+avocado;ukwatapheya
+pineapple;uphayinaphu

@@ -1,0 +1,13 @@
+lion.jpg
+zebra.jpg
+horse.jpg
+cat.jpg
+elephant.jpg
+pig.jpg
+fish.jpg
+dog.jpg
+cow.jpg
+chicken.jpg
+snake.jpg
+bird.jpg
+rabbit.jpg

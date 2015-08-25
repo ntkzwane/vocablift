@@ -1,0 +1,12 @@
+January;Ndira
+February;Kukadzi
+March;Kurume
+April;Kubvumbi
+May;Chivabvu
+June;Chikumi
+July;Chikunguru
+August;Nyamavhuvhu
+September;Gunyana
+October;Gumiguru
+November;Mbudzi
+December;Zvita

@@ -1,0 +1,12 @@
+January;uMasingana
+February;uNhlolanja
+March;uNdasa
+April;uMbasa
+May;uNhlaba
+June;uNhlangulana
+July;uNtulikazi
+August;uNcwaba
+September;uMandulo
+October;uMfumfu
+November;uLwezi
+December;uZibandlela

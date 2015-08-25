@@ -1,0 +1,12 @@
+strawberry;hatura
+berry;bheri
+banana;bhanana
+cherry;cheri
+lemon;remon
+mango;mango
+orange;orenji
+pair;pair
+pineapple;zvinanzi
+grape;girep
+apple;apuro
+avocado;avocado

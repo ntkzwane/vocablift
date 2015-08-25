@@ -1,0 +1,14 @@
+13
+lion
+zebre
+cheval
+chat
+elephant
+cochon
+poisson
+chien
+vache
+poule
+serpent
+oiseau
+lapin

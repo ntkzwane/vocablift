@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" fx:id="frame" maxHeight="700.0" maxWidth="800.0" minHeight="700.0" minWidth="800.0" prefHeight="700.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="vocablift.WordTetrisController">
+   <children>
+      <ImageView fitHeight="700.0" fitWidth="800.0" pickOnBounds="true">
+         <image>
+            <Image url="@green-square-textures-background-3116.jpg" />
+         </image>
+      </ImageView>
+      <MenuBar layoutX="659.0" onMouseClicked="#goBack">
+         <menus>
+            <Menu mnemonicParsing="false" onAction="#logout" text="Options">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#goBack" text="Back" />
+                  <MenuItem mnemonicParsing="false" onAction="#logout" text="Logout" />
+               </items>
+            </Menu>
+         </menus>
+      </MenuBar>
+      <Pane fx:id="g" layoutX="193.0" layoutY="84.0" prefHeight="349.0" prefWidth="466.0" />
+   </children>
+</AnchorPane>

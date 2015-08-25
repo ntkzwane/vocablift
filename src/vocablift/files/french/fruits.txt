@@ -1,0 +1,10 @@
+berry;baie
+lemon;citron
+strawberry;fraise
+banana;banane
+pear;poir
+pineapple;ananas
+cherry;cerise
+avocado;avocat
+mango;mangue
+grape;raisin

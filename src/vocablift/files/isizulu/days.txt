@@ -1,0 +1,11 @@
+Monday;uMsombuluko;
+Tuesday;uLwesibili;
+Wednesday;uLwesithathu;
+Thursday;uLwesine;
+Friday;uLwesihlanu;
+Saturday;uMgqibelo;
+Sunday;iSonto;
+Today;Namuhla;
+Tomorrow;Kusasa;
+Yesterday;Izolo;
+A;long;time;ago;Kudala;

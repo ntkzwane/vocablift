@@ -1,0 +1,12 @@
+strawberry.jpg
+berry.jpg
+banana.jpg
+cherry.png
+lemon.jpg
+mango.jpg
+orange.jpg
+pair.jpg
+pineapple.jpg
+grape.jpg
+apple.jpg
+avocado.jpg

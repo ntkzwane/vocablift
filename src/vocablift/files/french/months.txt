@@ -1,0 +1,12 @@
+January;Janvier
+February;Fevrier
+March;Mars
+April;Avril
+May;Mai
+June;Juin
+July;Juillet
+August;Aout
+September;Septembre
+October;Octobre
+November;Novembre
+December;Decembre

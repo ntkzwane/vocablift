@@ -1,0 +1,11 @@
+Blue;Bleu
+Violet;Violet
+Yellow;Jaune
+Red;Rouge
+Gray;Gris
+Pink;Rose
+Black;Noir
+Brown;Marron
+Green;Vert
+White;Blanc
+Orange;Orange

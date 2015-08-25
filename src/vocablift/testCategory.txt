@@ -1,0 +1,13 @@
+this thing;lento,
+that thing;leyanto,
+game;umdlalo,
+run;gijima,
+talk;khuluma,
+tell;-tshela,
+way;indlela,
+noise;umsindo,
+take;thatha,
+give;ipha
+earth;umlhaba
+want;-funa,
+heart;inhliziyo

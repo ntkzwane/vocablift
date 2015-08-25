@@ -1,0 +1,13 @@
+lion.jpg
+zebre.jpg
+cheval.jpg
+chat.jpg
+elephant.jpg
+cochon.jpg
+poisson.jpg
+chien.jpg
+vache.jpg
+poule.jpg
+serpent.jpg
+oiseau.jpg0
+lapin.jpg

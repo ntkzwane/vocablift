@@ -1,0 +1,9 @@
+Blue;bhuruu
+Yellow;yero
+Red;tsvuku
+Gray;pfumbu
+Black;Nhema
+Brown;shava
+Green;girini
+White;chena
+Orange;orenji
